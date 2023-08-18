@@ -1,0 +1,20 @@
+[
+  {
+    "team": "Celtics",
+    "city": "Boston",
+    "id": 1,
+    "bestyear": 1986,
+    "mostwins": 68,
+    "ssnwins": 57,
+    "players": [
+      {
+        "id": 2,
+        "name": "Jasyon Tatum"
+      },
+      {
+        "id": 3,
+        "name": "Jaylen Brown"
+      }
+    ]
+  }
+]
