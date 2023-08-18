@@ -349,5 +349,140 @@
     "averagetix": 133,
     "cheapesttix": 14,
     "expensivetix": 16565
+  },
+  {
+    "team": "Trail Blazers",
+    "city": "Portland",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 40,
+    "bestyear": 1976,
+    "mostwins": 63,
+    "ssnwins": 33,
+    "players": [
+      {
+        "id": 41,
+        "name": "Damian Lillard"
+      },
+      {
+        "id": 42,
+        "name": "Afernee Simons"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 1,
+    "orgination": 1970,
+    "draftpick": "Scoot Henderson",
+    "averagetix": 113,
+    "cheapesttix": 11,
+    "expensivetix": 14565
+  },
+  {
+    "team": "Jazz",
+    "city": "Utah",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 43,
+    "bestyear": 1996,
+    "mostwins": 64,
+    "ssnwins": 37,
+    "players": [
+      {
+        "id": 44,
+        "name": "Jordan Clarkson"
+      },
+      {
+        "id": 45,
+        "name": "Lauri Markkanen"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1974,
+    "draftpick": "Taylor Hendricks",
+    "averagetix": 110,
+    "cheapesttix": 12,
+    "expensivetix": 13565
+  },
+  {
+    "team": "Warriors",
+    "city": "Golden State",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 46,
+    "bestyear": 2015,
+    "mostwins": 73,
+    "ssnwins": 44,
+    "players": [
+      {
+        "id": 47,
+        "name": "Stephen Curry"
+      },
+      {
+        "id": 48,
+        "name": "Klay Thompson"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 7,
+    "orgination": 1946,
+    "draftpick": "Brandon Podziemski",
+    "averagetix": 194,
+    "cheapesttix": 35,
+    "expensivetix": 23565
+  },
+  {
+    "team": "Clippers",
+    "city": "Los Angeles",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 49,
+    "bestyear": 2019,
+    "mostwins": 57,
+    "ssnwins": 44,
+    "players": [
+      {
+        "id": 50,
+        "name": "Kawahi Leonard"
+      },
+      {
+        "id": 51,
+        "name": "Paul George"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1970,
+    "draftpick": "Kobe Brown",
+    "averagetix": 164,
+    "cheapesttix": 25,
+    "expensivetix": 21565
+  },
+  {
+    "team": "Lakers",
+    "city": "Los Angeles",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 52,
+    "bestyear": 1971,
+    "mostwins": 73,
+    "ssnwins": 43,
+    "players": [
+      {
+        "id": 53,
+        "name": "Lebron James"
+      },
+      {
+        "id": 54,
+        "name": "Anthony Davis"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 17,
+    "orgination": 1947,
+    "draftpick": "Jalen Hood-Schifino",
+    "averagetix": 200,
+    "cheapesttix": 55,
+    "expensivetix": 29565
   }
 ]
