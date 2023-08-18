@@ -214,5 +214,32 @@
     "averagetix": 110,
     "cheapesttix": 10,
     "expensivetix": 19402
+  },
+  {
+    "team": "Pacers",
+    "city": "Indiana",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 25,
+    "bestyear": 2013,
+    "mostwins": 56,
+    "ssnwins": 35,
+    "players": [
+      {
+        "id": 26,
+        "name": "Tyrese Haliburton"
+      },
+      {
+        "id": 27,
+        "name": "Buddy Heild"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 3,
+    "orgination": 1967,
+    "draftpick": "Bilal Coulibaly",
+    "averagetix": 105,
+    "cheapesttix": 11,
+    "expensivetix": 18454
   }
 ]
