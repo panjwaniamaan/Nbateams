@@ -268,5 +268,32 @@
     "averagetix": 183,
     "cheapesttix": 16,
     "expensivetix": 25835
+  },
+  {
+    "team": "Nuggets",
+    "city": "Denver",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 31,
+    "bestyear": 2012,
+    "mostwins": 57,
+    "ssnwins": 53,
+    "players": [
+      {
+        "id": 32,
+        "name": "Nikola Jokic"
+      },
+      {
+        "id": 33,
+        "name": "Jamal Murray"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 1,
+    "orgination": 1967,
+    "draftpick": "Maxwell Lewis",
+    "averagetix": 225,
+    "cheapesttix": 31,
+    "expensivetix": 25835
   }
 ]
