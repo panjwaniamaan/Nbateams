@@ -241,5 +241,32 @@
     "averagetix": 105,
     "cheapesttix": 11,
     "expensivetix": 18454
+  },
+  {
+    "team": "Bucks",
+    "city": "Milwaukee",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 28,
+    "bestyear": 1971,
+    "mostwins": 66,
+    "ssnwins": 58,
+    "players": [
+      {
+        "id": 29,
+        "name": "Giannis Antentokounmpo"
+      },
+      {
+        "id": 30,
+        "name": "Jrue Holdiay"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 2,
+    "orgination": 1968,
+    "draftpick": "Chris Livingston",
+    "averagetix": 183,
+    "cheapesttix": 16,
+    "expensivetix": 25835
   }
 ]
