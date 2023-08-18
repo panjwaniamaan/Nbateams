@@ -25,5 +25,32 @@
     "averagetix": 241,
     "cheapesttix": 27,
     "expensivetix": 4140
+  },
+  {
+    "team": "Nets",
+    "city": "Brooklyn",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-2.png",
+    "id": 4,
+    "bestyear": 2001,
+    "mostwins": 52,
+    "ssnwins": 45,
+    "players": [
+      {
+        "id": 5,
+        "name": "Mikel Bridges"
+      },
+      {
+        "id": 6,
+        "name": "Ben Simmons"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 2,
+    "orgination": 1967,
+    "draftpick": "Noah Clowney",
+    "averagetix": 244,
+    "cheapesttix": 18,
+    "expensivetix": 17385
   }
 ]
