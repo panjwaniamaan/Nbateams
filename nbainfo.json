@@ -106,5 +106,32 @@
     "averagetix": 336,
     "cheapesttix": 45,
     "expensivetix": 24913
+  },
+  {
+    "team": "Raptors",
+    "city": "Toronto",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 13,
+    "bestyear": 2018,
+    "mostwins": 59,
+    "ssnwins": 41,
+    "players": [
+      {
+        "id": 14,
+        "name": "Pascal Siakam"
+      },
+      {
+        "id": 15,
+        "name": "Scottie Barnes"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 1,
+    "orgination": 1995,
+    "draftpick": "Gradey Dick",
+    "averagetix": 148,
+    "cheapesttix": 11,
+    "expensivetix": 19402
   }
 ]
