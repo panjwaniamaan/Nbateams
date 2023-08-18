@@ -322,5 +322,32 @@
     "averagetix": 143,
     "cheapesttix": 12,
     "expensivetix": 18454
+  },
+  {
+    "team": "Thunder",
+    "city": "Oklahoma City",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 37,
+    "bestyear": 2012,
+    "mostwins": 60,
+    "ssnwins": 40,
+    "players": [
+      {
+        "id": 38,
+        "name": "Shai Gilgeous-Alexander"
+      },
+      {
+        "id": 39,
+        "name": "Josh Giddey"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1967,
+    "draftpick": "Dereck Lively II",
+    "averagetix": 133,
+    "cheapesttix": 14,
+    "expensivetix": 16565
   }
 ]
