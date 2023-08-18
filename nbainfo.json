@@ -2,6 +2,7 @@
   {
     "team": "Celtics",
     "city": "Boston",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
     "id": 1,
     "bestyear": 1986,
     "mostwins": 68,
@@ -15,6 +16,14 @@
         "id": 3,
         "name": "Jaylen Brown"
       }
-    ]
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 17,
+    "orgination": 1946,
+    "draftpick": "Julian Phillips",
+    "averagetix": 241,
+    "cheapesttix": 27,
+    "expensivetix": 4140
   }
 ]
