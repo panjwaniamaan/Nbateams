@@ -79,5 +79,32 @@
     "averagetix": 467,
     "cheapesttix": 53,
     "expensivetix": 14700
+  },
+  {
+    "team": "76ers",
+    "city": "Philadelphia",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 10,
+    "bestyear": 1966,
+    "mostwins": 68,
+    "ssnwins": 54,
+    "players": [
+      {
+        "id": 11,
+        "name": "Joel Embiid"
+      },
+      {
+        "id": 12,
+        "name": "James Harden"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 3,
+    "orgination": 1946,
+    "draftpick": "Jaden Spring",
+    "averagetix": 336,
+    "cheapesttix": 45,
+    "expensivetix": 24913
   }
 ]
