@@ -52,5 +52,32 @@
     "averagetix": 244,
     "cheapesttix": 18,
     "expensivetix": 17385
+  },
+  {
+    "team": "Knicks",
+    "city": "New York",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 7,
+    "bestyear": 1972,
+    "mostwins": 60,
+    "ssnwins": 47,
+    "players": [
+      {
+        "id": 8,
+        "name": "Jalen Brunson"
+      },
+      {
+        "id": 9,
+        "name": "Julius Randle"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 2,
+    "orgination": 1946,
+    "draftpick": "Trevor Keels",
+    "averagetix": 467,
+    "cheapesttix": 53,
+    "expensivetix": 14700
   }
 ]
