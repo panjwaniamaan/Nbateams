@@ -133,5 +133,32 @@
     "averagetix": 148,
     "cheapesttix": 11,
     "expensivetix": 19402
+  },
+  {
+    "team": "Bulls",
+    "city": "Chicago",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 16,
+    "bestyear": 1995,
+    "mostwins": 72,
+    "ssnwins": 40,
+    "players": [
+      {
+        "id": 17,
+        "name": "Demar Derozan"
+      },
+      {
+        "id": 18,
+        "name": "Zach LaVine"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 6,
+    "orgination": 1966,
+    "draftpick": "Julian Phillips via trade",
+    "averagetix": 136,
+    "cheapesttix": 15,
+    "expensivetix": 19402
   }
 ]
