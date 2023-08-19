@@ -2,7 +2,7 @@
   {
     "team": "Celtics",
     "city": "Boston",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80",
     "id": 1,
     "bestyear": 1986,
     "mostwins": 68,
@@ -29,7 +29,7 @@
   {
     "team": "Nets",
     "city": "Brooklyn",
-    "logo": "https://logodownload.org/wp-content/uploads/2021/04/brooklyn-nets-logo-2.png",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&scale=crop&cquality=40&location=origin&w=80&h=80",
     "id": 4,
     "bestyear": 2001,
     "mostwins": 52,
@@ -484,5 +484,329 @@
     "averagetix": 200,
     "cheapesttix": 55,
     "expensivetix": 29565
+  },
+  {
+    "team": "Suns",
+    "city": "Phoenix",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 55,
+    "bestyear": 1992,
+    "mostwins": 62,
+    "ssnwins": 45,
+    "players": [
+      {
+        "id": 56,
+        "name": "Kevin Durant"
+      },
+      {
+        "id": 57,
+        "name": "Devin Booker"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1968,
+    "draftpick": "Toumani Camara",
+    "averagetix": 160,
+    "cheapesttix": 40,
+    "expensivetix": 22565
+  },
+  {
+    "team": "Kings",
+    "city": "Sacramento",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 58,
+    "bestyear": 2001,
+    "mostwins": 61,
+    "ssnwins": 48,
+    "players": [
+      {
+        "id": 59,
+        "name": "Domantas Sabonis"
+      },
+      {
+        "id": 60,
+        "name": "Dearon Fox"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1948,
+    "draftpick": "Olivier-Maxence Prosper",
+    "averagetix": 110,
+    "cheapesttix": 23,
+    "expensivetix": 15565
+  },
+  {
+    "team": "Hawks",
+    "city": "Atlanta",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/atl.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 61,
+    "bestyear": 2014,
+    "mostwins": 60,
+    "ssnwins": 41,
+    "players": [
+      {
+        "id": 62,
+        "name": "Trae Young"
+      },
+      {
+        "id": 63,
+        "name": "Dejountae Murray"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 1,
+    "orgination": 1958,
+    "draftpick": "Kobe Bufkin",
+    "averagetix": 100,
+    "cheapesttix": 25,
+    "expensivetix": 18565
+  },
+  {
+    "team": "Hornets",
+    "city": "Charlotte",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 64,
+    "bestyear": 1996,
+    "mostwins": 54,
+    "ssnwins": 27,
+    "players": [
+      {
+        "id": 65,
+        "name": "Lamelo Ball"
+      },
+      {
+        "id": 66,
+        "name": "Terry Rozier"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 0,
+    "orgination": 1988,
+    "draftpick": "Nick Smith Jr.",
+    "averagetix": 80,
+    "cheapesttix": 13,
+    "expensivetix": 12565
+  },
+  {
+    "team": "Heat",
+    "city": "Miami",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 67,
+    "bestyear": 2012,
+    "mostwins": 66,
+    "ssnwins": 44,
+    "players": [
+      {
+        "id": 68,
+        "name": "Jimmy Butler"
+      },
+      {
+        "id": 69,
+        "name": "Bam Adebayo"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 0,
+    "orgination": 1988,
+    "draftpick": "Jamie Jaquez Jr.",
+    "averagetix": 100,
+    "cheapesttix": 24,
+    "expensivetix": 18565
+  },
+  {
+    "team": "Magic",
+    "city": "Orlando",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 70,
+    "bestyear": 1994,
+    "mostwins": 60,
+    "ssnwins": 34,
+    "players": [
+      {
+        "id": 71,
+        "name": "Jimmy Butler"
+      },
+      {
+        "id": 72,
+        "name": "Bam Adebayo"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 0,
+    "orgination": 1989,
+    "draftpick": "Anthony Black",
+    "averagetix": 80,
+    "cheapesttix": 12,
+    "expensivetix": 11565
+  },
+  {
+    "team": "Wizards",
+    "city": "Washington",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 73,
+    "bestyear": 1974,
+    "mostwins": 60,
+    "ssnwins": 35,
+    "players": [
+      {
+        "id": 74,
+        "name": "Jordan Poole"
+      },
+      {
+        "id": 75,
+        "name": "Kyle Kuzma"
+      }
+    ],
+    "eastconf": true,
+    "westconf": false,
+    "trophies": 1,
+    "orgination": 1961,
+    "draftpick": "Jarace Walker",
+    "averagetix": 70,
+    "cheapesttix": 12,
+    "expensivetix": 10565
+  },
+  {
+    "team": "Mavericks",
+    "city": "Dallas",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 76,
+    "bestyear": 2010,
+    "mostwins": 67,
+    "ssnwins": 38,
+    "players": [
+      {
+        "id": 77,
+        "name": "Luka Doncic"
+      },
+      {
+        "id": 78,
+        "name": "Kyrie Irving"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 1,
+    "orgination": 1980,
+    "draftpick": "Jarace Walker",
+    "averagetix": 110,
+    "cheapesttix": 22,
+    "expensivetix": 19565
+  },
+  {
+    "team": "Rockets",
+    "city": "Houston",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 79,
+    "bestyear": 2017,
+    "mostwins": 65,
+    "ssnwins": 22,
+    "players": [
+      {
+        "id": 80,
+        "name": "Kevin Porter Jr."
+      },
+      {
+        "id": 81,
+        "name": "Jalen Green"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 2,
+    "orgination": 1967,
+    "draftpick": "Amen Thompson",
+    "averagetix": 90,
+    "cheapesttix": 12,
+    "expensivetix": 17565
+  },
+  {
+    "team": "Grizzlies",
+    "city": "Memphis",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 82,
+    "bestyear": 2012,
+    "mostwins": 56,
+    "ssnwins": 51,
+    "players": [
+      {
+        "id": 83,
+        "name": "Ja Morant"
+      },
+      {
+        "id": 84,
+        "name": "Jaren Jackson Jr."
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1995,
+    "draftpick": "Marcus Sasser",
+    "averagetix": 100,
+    "cheapesttix": 22,
+    "expensivetix": 17565
+  },
+  {
+    "team": "Pelicans",
+    "city": "New Orleans",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 85,
+    "bestyear": 2007,
+    "mostwins": 56,
+    "ssnwins": 42,
+    "players": [
+      {
+        "id": 86,
+        "name": "Brandon Ingram"
+      },
+      {
+        "id": 87,
+        "name": "Zion Williamson"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 2002,
+    "draftpick": "Jordan Hawkins",
+    "averagetix": 80,
+    "cheapesttix": 12,
+    "expensivetix": 11565
+  },
+  {
+    "team": "Spurs",
+    "city": "San Antonio",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "id": 88,
+    "bestyear": 2013,
+    "mostwins": 67,
+    "ssnwins": 22,
+    "players": [
+      {
+        "id": 89,
+        "name": "Victor Wembanyanma"
+      },
+      {
+        "id": 90,
+        "name": "Keldon Johnson"
+      }
+    ],
+    "eastconf": false,
+    "westconf": true,
+    "trophies": 0,
+    "orgination": 1967,
+    "draftpick": "Victor Wembanyanma",
+    "averagetix": 70,
+    "cheapesttix": 12,
+    "expensivetix": 14565
   }
 ]
