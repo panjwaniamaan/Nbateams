@@ -18,6 +18,22 @@ body {
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+#lebron{
+  height: 200px;
+  width: 200px;
+}
+#mj{
+  height: 200px;
+  width: 200px;
+}
+.info{
+  border: 5px dotted white;
+  font-family: fantasy;
+  justify-content: space-evenly;
+}
+.player{
+  font-family: fantasy;
+}
 .city{
   border-radius: 25px;
   border: 5px solid black;

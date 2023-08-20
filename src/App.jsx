@@ -19,6 +19,22 @@ const App = () => {
         </strong>
       </h1>{' '}
       <br />
+      <h2 className="info">
+        <img
+          id="lebron"
+          src="https://www.pngarts.com/files/5/LeBron-James-Free-PNG-Image.png"
+          alt="lebron picture"
+        />
+        <br />
+        This website provides you with helpful information about all NBA teams.
+        All information has been gatherred in 2023!
+        <img
+          id="mj"
+          src="https://freepngimg.com/thumb/michael_jordan/29875-2-michael-jordan.png"
+          alt="MJ pic"
+        />
+        <br />
+      </h2>
       {nbaData.map((data) => {
         return (
           <div className="city" key={data.id}>
@@ -30,7 +46,11 @@ const App = () => {
             {data.players.map((player) => {
               return (
                 <div className="players" key={data.id}>
-                  Player for the {data.team}:<div>{player.name}</div>
+                  Player for the {data.team}:
+                  <div className="player">
+                    {' '}
+                    <strong>{player.name}</strong>
+                  </div>
                 </div>
               )
             })}
